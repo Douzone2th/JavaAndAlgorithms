@@ -20,8 +20,8 @@
 
 ## 👀 2주차 문제(1/31 ~ 2/4) ✅
 1/31, 프로그래머스 레벨2 : [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) </br>
-2/1, 프로그래머스 레벨2 : [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) </br> ❗️
-2/2, 백준 알고리즘  : [9935번 문 자열 폭발](https://www.acmicpc.net/problem/9935) </br> ❗️
+2/1, 프로그래머스 레벨2 : [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)❗️ </br>
+2/2, 백준 알고리즘  : [9935번 문 자열 폭발](https://www.acmicpc.net/problem/9935)❗️</br> 
 2/3, 백준 알고리즘  : [10773번 제로](https://www.acmicpc.net/problem/10773) </br>
 2/4, 프로그래머스 레벨2 : [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) </br>
 
@@ -37,9 +37,9 @@
 
 ## 👀 4주차 문제(2/14 ~ 2/18) ✅
 2/14, 백준 알고리즘 : [2751번 수 정렬하기 2](https://www.acmicpc.net/problem/2751) </br>
-2/15, 백준 알고리즘 : [10989번 수 정렬하기 3](https://www.acmicpc.net/problem/10989) </br> ❗️
-2/16, 백준 알고리즘 : [5635번 생일](https://www.acmicpc.net/problem/5635) </br> ❗️
-2/17, 백준 알고리즘 : [1755번 숫자놀이](https://www.acmicpc.net/problem/1755) </br> ❗️
+2/15, 백준 알고리즘 : [10989번 수 정렬하기 3](https://www.acmicpc.net/problem/10989)❗️</br>
+2/16, 백준 알고리즘 : [5635번 생일](https://www.acmicpc.net/problem/5635)❗️ </br> 
+2/17, 백준 알고리즘 : [1755번 숫자놀이](https://www.acmicpc.net/problem/1755)❗️ </br> 
 2/18, 백준 알고리즘 : [2048번 n번째 큰 수](https://www.acmicpc.net/problem/2075) </br>
 
 ## 👀 5주차 문제(2/21 ~ 2/25) ✅
@@ -54,7 +54,7 @@
 3/1, 백준 알고리즘 : [7568번 덩치](https://www.acmicpc.net/problem/7568) </br>
 3/2, 백준 알고리즘 : [1120번 문자열](https://www.acmicpc.net/problem/1120) </br>
 3/3, 백준 알고리즘 : [1476번 날짜계산](https://www.acmicpc.net/problem/1476) </br>
-3/4, 백준 알고리즘 : [9663번 N-Queen](https://www.acmicpc.net/problem/9663) </br> ❗️
+3/4, 백준 알고리즘 : [9663번 N-Queen](https://www.acmicpc.net/problem/9663) ❗️</br> 
 
 ## 👀 7주차 문제(3/7 ~ 3/11)
 3/7, 백준 알고리즘 : [3085번 사탕 게임](https://www.acmicpc.net/problem/3085) </br>
