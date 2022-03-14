@@ -12,12 +12,22 @@
 ---
 ###### [git suggetion?](https://nesoy.github.io/articles/2019-11/Github-suggestion) </br>
 ---
+
+<div style="display:inline">
+  <a href="#week_1_3" style="border:1px solid black">week_1 ~ week_3</a> &nbsp;
+  <a href="#week_4_6" style="border:1px solid black">week_4 ~ week_6</a> &nbsp;
+  <a href="#week_7_9" style="border:1px solid black">week_7 ~ week_9</a> &nbsp;
+</div>
+
+---
+
+<a name="week_1_3"></a>
 ## 1주차 문제(1/25 ~ 1/28)
 1/25, 백준 알고리즘  : [10872번 팩토리얼](https://www.acmicpc.net/problem/10872) </br>
 1/26, 백준 알고리즘  : [1769번 3의배수](https://www.acmicpc.net/problem/1769) </br>
 1/27, 백준 알고리즘  : [16974번 레벨 햄버거](https://www.acmicpc.net/problem/16974) </br>
 1/28, 백준 알고리즘  : [10994번 별 찍기-19](https://www.acmicpc.net/problem/10994) </br>
-
+ <a name="week_2">week_2</a>
 ## 2주차 문제(1/31 ~ 2/4)
 1/31, 프로그래머스 레벨2 : [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) </br>
 2/1, 프로그래머스 레벨2 : [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) </br>
@@ -34,7 +44,8 @@
 2/9, 백준 알고리즘 : [1874번 스택수열](https://www.acmicpc.net/problem/1874) </br>
 2/10, 백준 알고리즘 : [5397번 키로거](https://www.acmicpc.net/problem/5397) </br>
 2/11, 백준 알고리즘 : [14713번 앵무새](https://www.acmicpc.net/problem/14713) </br>
-  
+
+<a name="week_4_6"></a>
 ## 4주차 문제(2/14 ~ 2/18)
 2/14, 백준 알고리즘 : [2751번 수 정렬하기 2](https://www.acmicpc.net/problem/2751) </br>
 2/15, 백준 알고리즘 : [10989번 수 정렬하기 3](https://www.acmicpc.net/problem/10989) </br>
@@ -56,6 +67,7 @@
 3/3, 백준 알고리즘 : [1476번 날짜계산](https://www.acmicpc.net/problem/1476) </br>
 3/4, 백준 알고리즘 : [9663번 N-Queen](https://www.acmicpc.net/problem/9663) </br>
 
+<a name="week_7_9"></a>
 ## 7주차 문제(3/7 ~ 3/11)
 3/7, 백준 알고리즘 : [3085번 사탕 게임](https://www.acmicpc.net/problem/3085) </br>
 3/8, 백준 알고리즘 : [1182번 부분수열의 합](https://www.acmicpc.net/problem/1182) </br>
