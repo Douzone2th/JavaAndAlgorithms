@@ -43,10 +43,10 @@
 >> 백트래킹 사용한 경우는 대부분 Dynamic Programming, 그리디 알고리즘 등으로 더 빠르게 해결가능하지만 일부 경우 백트래킹만으로 해결가능한 문제가 있어서 해당경우 사용.</br>
 > 
 ## 2. 문제</br>
--------------------------
+
 3/7, 백준 알고리즘 : [30885번 사탕 게임](https://www.acmicpc.net/problem/30885) </br>
 3/8, 백준 알고리즘 : [1182번 부분수열의 합](https://www.acmicpc.net/problem/1182) </br>
 3/9, 백준 알고리즘 : [2503번 숫자야구](https://www.acmicpc.net/problem/1120) </br>
 3/10, 백준 알고리즘 : [2178 미로탐색](https://www.acmicpc.net/problem/1476) </br>
 3/11, 백준 알고리즘 : [1759번 암호 만들기](https://www.acmicpc.net/problem/9663) </br>
-------------------------
+
