@@ -11,12 +11,15 @@
 ###### 리팩토링 -> refactor : 1/25, 백준 알고리즘 : [1406번 에디터 문제] </br>
 ---
 ###### [git suggetion?](https://nesoy.github.io/articles/2019-11/Github-suggestion) </br>
+###### [git-flow?](https://techblog.woowahan.com/2553/)
+###### [git issue?](https://hyeonic.tistory.com/181)
+
 ---
 <p>Page</p>
 <div style="display:inline">
-  <a href="#week_1_3" style="border:1px solid black">week_1 ~ week_3</a> &nbsp;
-  <a href="#week_4_6" style="border:1px solid black">week_4 ~ week_6</a> &nbsp;
-  <a href="#week_7_9" style="border:1px solid black">week_7 ~ week_9</a> &nbsp;
+  <a href="#week_1_3" style="border:1px solid black">week_1 ~ week_3 ↓ </a> &nbsp;
+  <a href="#week_4_6" style="border:1px solid black">week_4 ~ week_6 ↓</a> &nbsp;
+  <a href="#week_7_9" style="border:1px solid black">week_7 ~ week_9 ↓</a> &nbsp;
 </div>
 
 ---
