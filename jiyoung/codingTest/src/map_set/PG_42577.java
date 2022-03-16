@@ -6,14 +6,19 @@ import java.io.*;
 public class PG_42577 {
 	
 	public static boolean solution(String[] phone_book) {
-		//접두사가 같은게 비슷한 위치에 있도록 정렬된 treeset 사용
-		TreeSet<String> set = new TreeSet();
+		Arrays.sort(phone_book); //접두사를 찾는거 니까 앞의 숫자들이 겹치도록 정렬
 		
+		//hash set 구성
+		HashSet<String> set = new HashSet();
 		for(int i=0; i<phone_book.length; i++) set.add(phone_book[i]);
 		
-		Iterator<String> it = set.iterator();
-		
-		
+		//찾기
+		for(String s : phone_book) {
+			for (int i = 0; i < s.length()-1; i++) {
+                String slice = s.substring(0, i + 1);
+                if (set.contains(slice)) return false;
+			}
+		}
 		return true;
 	}
 
