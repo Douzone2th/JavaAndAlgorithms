@@ -1,13 +1,16 @@
+<a name="top"></a>
 
 # JavaAndAlgorithms
-더존 채용확정형 교육 2기 6팀, 자바와 알고리즘 스터디 </br>
+더존 채용확정형 교육 2기와 함께하는, 자바와 알고리즘 스터디 </br>
 #### <커밋 메세지 컨벤션>  
 ###### 예시</br> 
-###### 추가시 -> feat : 1/25, 백준 알고리즘 : [1406번 에디터 문제] </br>
-###### 추가시 -> feat : 1/25, 프로그래머스 레벨2 : [가장 큰 수 문제] </br>
-###### 수정시 -> fix : 1/25, 백준 알고리즘 : [1406번 에디터 문제] </br>
-###### 구조변경 -> docs : 1/25, add test project module  </br>
-###### 구조변경 -> docs : 1/25, Update.Readme  </br>
+###### 추가시 -> feat : 1/25, 백준 알고리즘 : [1406번 에디터] </br>
+###### 추가시 -> feat : 1/25, 프로그래머스 레벨2 : [가장 큰 수] </br>
+###### 추가시 -> feat : 1/25, SW Expert Academy : [사탕 분배] </br>
+###### 수정시 -> fix : 1/25, 백준 알고리즘 : [1406번 에디터] </br>
+###### 구조변경 및 추가 -> docs : 1/25, add test project module  </br>
+###### 구조변경 및 추가 -> docs : 1/25, Update.Readme  </br>
+###### 테스트 -> test : 1/25, git first test  </br>
 ###### 리팩토링 -> refactor : 1/25, 백준 알고리즘 : [1406번 에디터 문제] </br>
 ---
 ###### [git suggetion?](https://nesoy.github.io/articles/2019-11/Github-suggestion) </br>
@@ -84,3 +87,6 @@
 3/16, 백준 알고리즘 : [1620번 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) </br>
 3/17, 백준 알고리즘 : [13414번 수강신청](https://www.acmicpc.net/problem/13414) </br>
 3/18, 프로그래머스 레벨2 : [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) </br>
+
+---
+<a href="#top" style="border:1px solid black">위로 ↑ </a> &nbsp;
