@@ -26,6 +26,13 @@ public class bj1620 {
                 System.out.println(mapN.get(Integer.parseInt(quiz)));
             }else{
                 System.out.println(mapS.get(quiz));
+                //2중 for문 사용시 시간초과
+                /*for (int j = 1; j < num+1; j++) {
+                    String temp = mapN.get(j);
+                    if(quiz.equals(temp)) {
+                        System.out.println(j);
+                    }
+                }*/
             }
         }
     }
