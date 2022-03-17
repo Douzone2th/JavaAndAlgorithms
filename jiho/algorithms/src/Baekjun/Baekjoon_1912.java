@@ -1,6 +1,8 @@
+package Baekjun;
+
 import java.util.*;
 
-public class Main {
+public class Baekjoon_1912 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
