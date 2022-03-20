@@ -15,12 +15,13 @@ public class Bj3085_candy {
         List<Integer> list = switching(arr);
         Collections.sort(list, Comparator.reverseOrder());
         System.out.println(list.get(0));
+        System.out.println(list);
 
     }
     public static List<Integer> switching(char[][] arr){
         List<Integer> list = new ArrayList<>();
         char[][] origin = arr;
-
+        list.add(checking(arr));
         for(int i = 0 ; i < arr.length ;i++) {
             for(int j = 0 ; j < arr.length-1 ; j++) {
                 if (arr[i][j] != arr[i][j + 1]) {
@@ -53,17 +54,27 @@ public class Bj3085_candy {
             for (int j = 0; j < arr.length-1; j++) {
                 if (arr[i][j] == arr[i][j + 1]) {
                     sum++;
+                }else {
+                    if(answer < sum){
+                        answer = sum;
+                    }
+                    sum=1;
                 }
             }
             if(answer < sum){
                 answer = sum;
             }
-            sum = 1;
+            sum=1;
         }
         for (int i = 0; i < arr.length ; i++) {
             for (int j = 0; j < arr.length-1; j++) {
                 if (arr[j][i] == arr[j+1][i]) {
                     sum++;
+                }else{
+                    if(answer < sum){
+                        answer = sum;
+                    }
+                    sum = 1;
                 }
             }
             if(answer < sum){
