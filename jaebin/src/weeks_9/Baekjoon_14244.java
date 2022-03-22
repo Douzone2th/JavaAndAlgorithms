@@ -3,12 +3,10 @@
     import java.io.BufferedReader;
     import java.io.IOException;
     import java.io.InputStreamReader;
-    import java.util.LinkedList;
-    import java.util.Stack;
     import java.util.StringTokenizer;
 
     //백준 알고리즘 14244번: 트리만들기
-    public class baekjoon_14244 {
+    public class Baekjoon_14244 {
         /**
          * 최상위 노드 : root 노드
          * 자식노드가 없는 노드 : leaf 노드
