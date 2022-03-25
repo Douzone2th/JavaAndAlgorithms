@@ -63,5 +63,10 @@
 3/10, 백준 알고리즘 : [2178 미로탐색](https://www.acmicpc.net/problem/2178) </br>
 3/11, 백준 알고리즘 : [1759번 암호 만들기](https://www.acmicpc.net/problem/1759) </br>
 
-
+## 👀 9주차 문제(3/21 ~ 3/25)(Dynamic Programming) ✅
+3/21, 백준 : [2839 설탕 배달](https://www.acmicpc.net/problem/2839) 🥉1 </br>
+3/22, 백준 : [2670 연속부분최대곱](https://www.acmicpc.net/problem/2670) 🥈4 </br>
+3/23, 백준 : [1463 1로 만들기](https://www.acmicpc.net/problem/1463) 🥈3 </br>
+3/24, 백준 : [9461 파도반 수열](https://www.acmicpc.net/problem/9461)  🥈3   </br>
+3/25, 백준 : [2579 계단 오르기](https://www.acmicpc.net/problem/2579)🥈3 </br>
 
