@@ -1,22 +1,29 @@
+<a name="top"></a>
 
 # JavaAndAlgorithms
-더존 채용확정형 교육 2기 6팀, 자바와 알고리즘 스터디 </br>
+더존 채용확정형 교육 2기와 함께하는, 자바와 알고리즘 스터디 </br>
 #### <커밋 메세지 컨벤션>  
 ###### 예시</br> 
-###### 추가시 -> feat : 1/25, 백준 알고리즘 : [1406번 에디터 문제] </br>
-###### 추가시 -> feat : 1/25, 프로그래머스 레벨2 : [가장 큰 수 문제] </br>
-###### 수정시 -> fix : 1/25, 백준 알고리즘 : [1406번 에디터 문제] </br>
-###### 구조변경 -> docs : 1/25, add test project module  </br>
-###### 구조변경 -> docs : 1/25, Update.Readme  </br>
+###### 추가시 -> feat : 1/25, 백준 알고리즘 : [1406번 에디터] </br>
+###### 추가시 -> feat : 1/25, 프로그래머스 레벨2 : [가장 큰 수] </br>
+###### 추가시 -> feat : 1/25, SW Expert Academy : [사탕 분배] </br>
+###### 수정시 -> fix : 1/25, 백준 알고리즘 : [1406번 에디터] </br>
+###### 구조변경 및 추가 -> docs : 1/25, add test project module  </br>
+###### 구조변경 및 추가 -> docs : 1/25, Update.Readme  </br>
+###### 테스트 -> test : 1/25, git first test  </br>
 ###### 리팩토링 -> refactor : 1/25, 백준 알고리즘 : [1406번 에디터 문제] </br>
 ---
 ###### [git suggetion?](https://nesoy.github.io/articles/2019-11/Github-suggestion) </br>
+###### [git-flow?](https://techblog.woowahan.com/2553/)
+###### [git issue?](https://hyeonic.tistory.com/181)
+
 ---
 <p>Page</p>
 <div style="display:inline">
-  <a href="#week_1_3" style="border:1px solid black">week_1 ~ week_3</a> &nbsp;
-  <a href="#week_4_6" style="border:1px solid black">week_4 ~ week_6</a> &nbsp;
-  <a href="#week_7_9" style="border:1px solid black">week_7 ~ week_9</a> &nbsp;
+  <a href="#week_1_3" style="border:1px solid black">week_1 ~ week_3 ↓ </a> &nbsp;
+  <a href="#week_4_6" style="border:1px solid black">week_4 ~ week_6 ↓</a> &nbsp;
+  <a href="#week_7_9" style="border:1px solid black">week_7 ~ week_9 ↓</a> &nbsp;
+  <a href="#week_7_9" style="border:1px solid black">week_10 ~ week_12 ↓</a> &nbsp;
 </div>
 
 ---
@@ -81,3 +88,14 @@
 3/16, 백준 알고리즘 : [1620번 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) </br>
 3/17, 백준 알고리즘 : [13414번 수강신청](https://www.acmicpc.net/problem/13414) </br>
 3/18, 프로그래머스 레벨2 : [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) </br>
+
+## 9주차 문제(3/21 ~ 3/25)
+3/21, 백준 알고리즘 : [14244번 트리 만들기](https://www.acmicpc.net/problem/14244)</br>
+3/22, 백준 알고리즘 : [14425번 문자열집합](https://www.acmicpc.net/problem/14425)</br>
+3/23, 백준 알고리즘 : [9372번 상근이의 여행](https://www.acmicpc.net/problem/9372)</br>
+3/24, 백준 알고리즘 : [11725번 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)</br>
+3/25, 백준 알고리즘 : [15900번 나무탈출](https://www.acmicpc.net/problem/15900)</br>
+
+<a name="week_10_12"></a>
+---
+<a href="#top" style="border:1px solid black">위로 ↑ </a> &nbsp;
