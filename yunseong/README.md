@@ -56,9 +56,17 @@
 3/3, 백준 알고리즘 : [1476번 날짜계산](https://www.acmicpc.net/problem/1476) </br>
 3/4, 백준 알고리즘 : [9663번 N-Queen](https://www.acmicpc.net/problem/9663) ❗️</br> 
 
-## 👀 7주차 문제(3/7 ~ 3/11)
+## 👀 7주차 문제(3/7 ~ 3/11)✅
 3/7, 백준 알고리즘 : [3085번 사탕 게임](https://www.acmicpc.net/problem/3085) </br>
 3/8, 백준 알고리즘 : [1182번 부분수열의 합](https://www.acmicpc.net/problem/1182) </br>
 3/9, 백준 알고리즘 : [2503번 숫자야구](https://www.acmicpc.net/problem/2503) </br>
 3/10, 백준 알고리즘 : [2178 미로탐색](https://www.acmicpc.net/problem/2178) </br>
 3/11, 백준 알고리즘 : [1759번 암호 만들기](https://www.acmicpc.net/problem/1759) </br>
+
+## 👀 9주차 문제(3/21 ~ 3/25)(Dynamic Programming) ✅
+3/21, 백준 : [2839 설탕 배달](https://www.acmicpc.net/problem/2839) 🥉1 </br>
+3/22, 백준 : [2670 연속부분최대곱](https://www.acmicpc.net/problem/2670) 🥈4 </br>
+3/23, 백준 : [1463 1로 만들기](https://www.acmicpc.net/problem/1463) 🥈3 </br>
+3/24, 백준 : [9461 파도반 수열](https://www.acmicpc.net/problem/9461)  🥈3   </br>
+3/25, 백준 : [2579 계단 오르기](https://www.acmicpc.net/problem/2579)🥈3 </br>
+
