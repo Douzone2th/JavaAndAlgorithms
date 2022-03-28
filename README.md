@@ -23,7 +23,7 @@
   <a href="#week_1_3" style="border:1px solid black">week_1 ~ week_3 ↓ </a> &nbsp;
   <a href="#week_4_6" style="border:1px solid black">week_4 ~ week_6 ↓</a> &nbsp;
   <a href="#week_7_9" style="border:1px solid black">week_7 ~ week_9 ↓</a> &nbsp;
-  <a href="#week_7_9" style="border:1px solid black">week_10 ~ week_12 ↓</a> &nbsp;
+  <a href="#week_10_12" style="border:1px solid black">week_10 ~ week_12 ↓</a> &nbsp;
 </div>
 
 ---
