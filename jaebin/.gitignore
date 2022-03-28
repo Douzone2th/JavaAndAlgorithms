@@ -8,7 +8,7 @@
 /httpRequests/
 
 
-#my gitignore
+#jaebin gitignore
 .idea
 *.iws
 *.iml
@@ -18,7 +18,8 @@ out/
 /*.iws
 /*.iml
 /*.ipr
-/wamma/src/ignore/
 /out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+
+src/other/
