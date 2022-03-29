@@ -17,7 +17,5 @@ public class bj14888 {
         for (int i = 0; i < opt.length; i++) {
             opt[i] = sc.nextInt();
         }
-
-
     }
 }
