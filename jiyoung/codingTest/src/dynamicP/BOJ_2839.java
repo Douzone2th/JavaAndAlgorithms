@@ -6,24 +6,26 @@ import java.util.Arrays;
 
 public class BOJ_2839 {
 	public static void main(String[] args) throws IOException{
-		//ÀÔ·Â
+		//ìž…ë ¥
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int n = Integer.parseInt(br.readLine());
 		int[] dp = new int[n+1];
 		
-		//±âº» ¼¼ÆÃ
+		//ê¸°ë³¸ ì„¸íŒ…
 		Arrays.fill(dp, 5000);
-		dp[3] = 1; dp[5] = 1;
+		//if ì•ˆí•´ì£¼ë©´ ArrayIndexOutofBound ì—ëŸ¬ë‚¨
+		if(n >= 3) dp[3] = 1; 
+		if(n >= 5) dp[5] = 1;
 		
-		for(int i=6; i<=n; i++) dp[i] = Math.min(dp[i-3], dp[i-5])+1; //ºÀÁö 1°³ Ãß°¡
+		for(int i=6; i<=n; i++) dp[i] = Math.min(dp[i-3], dp[i-5])+1; //ë´‰ì§€ 1ê°œ ì¶”ê°€
 		
 		/*
-		 * //È®ÀÎ¿ë ÄÚµå 
+		 * //í™•ì¸ìš© ì½”ë“œ 
 		 * for(int i : dp) System.out.print(i+" "); 
 		 * System.out.println();
 		 */
 		
-		//Ãâ·Â
+		//ì¶œë ¥
 		if(dp[n] >= 5000) System.out.println(-1);
 		else System.out.println(dp[n]);
 	}
