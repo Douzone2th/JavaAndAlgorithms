@@ -57,19 +57,11 @@ public class Bj1080_hang {
                 for (int j = 0; j < solution[i].length - 2; j++) {
                     if (!solution[i][j]) {
                         cnt++;
-                        //첫 행
-                        solution[i][j] = !solution[i][j];
-                        solution[i][j + 1] = !solution[i][j + 1];
-                        solution[i][j + 2] = !solution[i][j + 2];
-                        //두번쨰 행
-                        solution[i + 1][j] = !solution[i + 1][j];
-                        solution[i + 1][j + 1] = !solution[i + 1][j + 1];
-                        solution[i + 1][j + 2] = !solution[i + 1][j + 2];
-                        //세번째 행
-                        solution[i + 2][j] = !solution[i + 2][j];
-                        solution[i + 2][j + 1] = !solution[i + 2][j + 1];
-                        solution[i + 2][j + 2] = !solution[i + 2][j + 2];
-
+                        for(int k = 0 ; k < 3 ;k++){
+                            for(int l = 0 ; l < 3; l++) {
+                                solution[i+k][j+l] = !solution[i+k][j+l];
+                            }
+                        }
                         if (check(solution)) return cnt;
                     }
                 }
