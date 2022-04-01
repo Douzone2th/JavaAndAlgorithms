@@ -71,8 +71,8 @@ public class Baekjoon_15681 {
 		}
 		return dp[cur];
 			
-		}
 	}
+}
 
 //자료구조
 //1. 집합임시저장
