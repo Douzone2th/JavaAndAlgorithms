@@ -41,8 +41,6 @@ public class Baekjoon_15681 {
 	
 	//트리 생성
 	buildTree(r, -1);
-	
-	
 	StringBuilder sb = new StringBuilder();
 	
 	// 출력하기위해 쿼리의 수만큼 결과 생성
@@ -54,7 +52,6 @@ public class Baekjoon_15681 {
 	bw.close();
 	br.close();
 }
-	
 	static int buildTree(int cur, int parent) {
 		// dp[cur]이 0이 아니면 연결된 노드이므로
 		if(dp[cur] != 0) {
