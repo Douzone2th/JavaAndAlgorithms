@@ -8,6 +8,7 @@ import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
 public class Baekjoon_15650 { 
+	
 	static int M, N; 
 	static int[] arr; 
 	static boolean[] visit; 
@@ -22,6 +23,7 @@ public class Baekjoon_15650 {
 		recursion(0); 
 		bw.flush(); 
 		bw.close(); 
+		
 	} 
 	public static void recursion(int index) throws IOException { 
 		if (index == M) { 
