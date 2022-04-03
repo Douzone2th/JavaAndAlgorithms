@@ -16,6 +16,7 @@ public class Baekjoon_15650 {
 	static int index = 1; 
 	public static void main(String[] args) throws IOException { 
 		
+		
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in)); 
 		StringTokenizer st = new StringTokenizer(bf.readLine()); 
 		N = Integer.parseInt(st.nextToken()); 
@@ -25,9 +26,10 @@ public class Baekjoon_15650 {
 		bw.flush(); 
 		bw.close(); 
 		
+		
 	} 
 	public static void recursion(int index) throws IOException { 
-		// ë°‘ ì¬ê·€ë¥¼ í†µí•´ indexê°€ Mê³¼ ê°™ì•„ì§€ë©´ bufferì— ì¶œë ¥í•  ê²ƒë“¤ì„ ì¶”ê°€, ì¢…ë£Œë¬¸
+		// ¹Ø Àç±Í¸¦ ÅëÇØ index°¡ M°ú °°¾ÆÁö¸é buffer¿¡ Ãâ·ÂÇÒ °ÍµéÀ» Ãß°¡, Á¾·á¹®
 		if (index == M) { 
 			for (int i = 0; i < M; i++) { 
 				bw.write(arr[i] + " "); 
@@ -35,9 +37,9 @@ public class Baekjoon_15650 {
 			bw.write("\n");
 			return; 
 			} 
-			// visit ë¼ëŠ” boolean ë°°ì—´ì„ ë§Œë“¤ì–´ ì´ì „ì— ë°©ë¬¸í•˜ì§€ ì•Šì•˜ë‹¤ë©´ ë°©ë¬¸í•˜ì—¬ arrì— ì¶”ê°€í•˜ê³  
-			// ê·¸ ìˆ«ìì˜ visit ì¸ë±ìŠ¤ë¥¼ trueë¡œ ë°”ê¿” ë‹¤ì‹œ ìì‹ ì„ í˜¸ì¶œí•œë‹¤. 
-			// ë”ì´ìƒ ë°©ë¬¸í•˜ì§€ ì•Šì€
+			// visit ¶ó´Â boolean ¹è¿­À» ¸¸µé¾î ÀÌÀü¿¡ ¹æ¹®ÇÏÁö ¾Ê¾Ò´Ù¸é ¹æ¹®ÇÏ¿© arr¿¡ Ãß°¡ÇÏ°í 
+			// ±× ¼ıÀÚÀÇ visit ÀÎµ¦½º¸¦ true·Î ¹Ù²ã ´Ù½Ã ÀÚ½ÅÀ» È£ÃâÇÑ´Ù. 
+			// ´õÀÌ»ó ¹æ¹®ÇÏÁö ¾ÊÀº
 			for (int i = 1; i <= N; i++) {
 				if(!visit[i]) { 
 					arr[index] = i;
