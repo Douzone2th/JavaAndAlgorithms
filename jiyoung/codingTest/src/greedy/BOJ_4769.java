@@ -8,9 +8,8 @@ public class BOJ_4769 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;
 		StringBuilder sb = new StringBuilder();
-		int i = 0;
     
-		while(true) {
+		for(int i=1;;i++) {
 			st = new StringTokenizer(br.readLine());
 			int l = Integer.parseInt(st.nextToken());
 			int p = Integer.parseInt(st.nextToken());
@@ -20,7 +19,7 @@ public class BOJ_4769 {
 			
 			int max = v/p*l;
 			max += Math.min(v%p, l);
-			sb.append("Case "+(++i)+": "+max+"\n");
+			sb.append("Case "+i+": "+max+"\n");
 		}
 		System.out.println(sb);
 	}
