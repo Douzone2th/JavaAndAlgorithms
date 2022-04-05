@@ -1,10 +1,12 @@
+package weeks_11;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class Main {
+public class baekjoon17478 {
 	static StringBuilder sb = new StringBuilder();
 	static String underBar = "";
 	public static void main(String[] args) {
