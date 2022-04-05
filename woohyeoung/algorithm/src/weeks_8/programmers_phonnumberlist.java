@@ -1,8 +1,10 @@
+package weeks_8;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class programmers_phonnumberlist {
 	public static void main(String[] args) {
 		System.out.println("값 입력 시작----------값 입력이 끝나면 exit입력");
 		Scanner scanner = new Scanner(System.in);
