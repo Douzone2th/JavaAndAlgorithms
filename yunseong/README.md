@@ -70,7 +70,7 @@
 3/11, 백준 알고리즘 : [1759번 암호 만들기](https://www.acmicpc.net/problem/1759) </br>
 
 ## 👀 9주차 문제(3/21 ~ 3/25)(Dynamic Programming) ✅
-[💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/dynamicprogramming)</br>
+[💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/dynamicProgramming)</br>
 3/21, 백준 : [2839 설탕 배달](https://www.acmicpc.net/problem/2839) 🥉1 </br>
 3/22, 백준 : [2670 연속부분최대곱](https://www.acmicpc.net/problem/2670) 🥈4 </br>
 3/23, 백준 : [1463 1로 만들기](https://www.acmicpc.net/problem/1463) 🥈3 </br>
@@ -86,7 +86,7 @@
 4/1, 백준 : [12904 A와B](https://www.acmicpc.net/problem/12904) 🥇5</br>
 
 ## 👀 11주차 알고리즘(4/4 ~ 4/8)(Dynamic Programming)
-[💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/dynamicprogramming)</br>
+[💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/dynamicProgramming)</br>
 4/4, 백준 : [11726 2xn타일링](https://www.acmicpc.net/problem/11726) 🥈3 </br>
 4/5, 백준 : [9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) 🥈3</br>
 4/6, 백준 : [11727 2xn타일링2](https://www.acmicpc.net/problem/11727) 🥈3</br>
