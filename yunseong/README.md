@@ -12,12 +12,14 @@
 
 ---
 ## 👀 1주차 문제(1/25 ~ 1/28) ✅
+[💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/Reculsive)</br>
 1/25, 백준 알고리즘  : [10872번 팩토리얼](https://www.acmicpc.net/problem/10872) </br>
 1/26, 백준 알고리즘  : [1769번 3의배수](https://www.acmicpc.net/problem/1769) </br>
 1/27, 백준 알고리즘  : [16974번 레벨 햄버거](https://www.acmicpc.net/problem/16974) </br>
 1/28, 백준 알고리즘  : [10994번 별 찍기-19](https://www.acmicpc.net/problem/10994) </br>
 
 ## 👀 2주차 문제(1/31 ~ 2/4) ✅
+[💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/stack_queue)</br>
 1/31, 프로그래머스 레벨2 : [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) </br>
 2/1, 프로그래머스 레벨2 : [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)❗️ </br>
 2/2, 백준 알고리즘  : [9935번 문 자열 폭발](https://www.acmicpc.net/problem/9935)❗️</br> 
@@ -28,6 +30,7 @@
 백준 알고리즘  : [1158번 요세푸스](https://www.acmicpc.net/problem/1158) </br>
 
 ## 👀 3주차 문제(2/7 ~ 2/11) ✅
+[💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/stack_queue)</br>
 2/7, 백준 알고리즘 : [11899번 괄호 끼워넣기](https://www.acmicpc.net/problem/11899) </br>
 2/8, 백준 알고리즘 : [4949번 균형잡힌 세상](https://www.acmicpc.net/problem/4949) </br>
 2/9, 백준 알고리즘 : [1874번 스택수열](https://www.acmicpc.net/problem/1874) </br>
@@ -35,6 +38,7 @@
 2/11, 백준 알고리즘 : [14713번 앵무새](https://www.acmicpc.net/problem/14713) </br>
 
 ## 👀 4주차 문제(2/14 ~ 2/18) ✅
+[💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/sort)</br>
 2/14, 백준 알고리즘 : [2751번 수 정렬하기 2](https://www.acmicpc.net/problem/2751) </br>
 2/15, 백준 알고리즘 : [10989번 수 정렬하기 3](https://www.acmicpc.net/problem/10989)❗️</br>
 2/16, 백준 알고리즘 : [5635번 생일](https://www.acmicpc.net/problem/5635)❗️ </br> 
@@ -42,6 +46,7 @@
 2/18, 백준 알고리즘 : [2048번 n번째 큰 수](https://www.acmicpc.net/problem/2075) </br>
 
 ## 👀 5주차 문제(2/21 ~ 2/25) ✅
+[💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/sort)</br>
 2/21, 백준 알고리즘 : [11651번 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) </br>
 2/22, 백준 알고리즘 : [14729번 칠무해](https://www.acmicpc.net/problem/14729) </br>
 2/23, 백준 알고리즘 : [7795번 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) </br>
@@ -49,6 +54,7 @@
 2/25, 백준 알고리즘 : [18310번 안테나](https://www.acmicpc.net/problem/18310) </br> 
 
 ## 👀 6주차 문제(2/28 ~ 3/4)✅
+[💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/bruteforce)</br>
 2/28, 백준 알고리즘 : [2309번 일곱 난쟁이](https://www.acmicpc.net/problem/2309) </br>
 3/1, 백준 알고리즘 : [7568번 덩치](https://www.acmicpc.net/problem/7568) </br>
 3/2, 백준 알고리즘 : [1120번 문자열](https://www.acmicpc.net/problem/1120) </br>
@@ -56,6 +62,7 @@
 3/4, 백준 알고리즘 : [9663번 N-Queen](https://www.acmicpc.net/problem/9663) ❗️</br> 
 
 ## 👀 7주차 문제(3/7 ~ 3/11)✅
+[💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/bruteforce)</br>
 3/7, 백준 알고리즘 : [3085번 사탕 게임](https://www.acmicpc.net/problem/3085) </br>
 3/8, 백준 알고리즘 : [1182번 부분수열의 합](https://www.acmicpc.net/problem/1182) </br>
 3/9, 백준 알고리즘 : [2503번 숫자야구](https://www.acmicpc.net/problem/2503) </br>
@@ -63,6 +70,7 @@
 3/11, 백준 알고리즘 : [1759번 암호 만들기](https://www.acmicpc.net/problem/1759) </br>
 
 ## 👀 9주차 문제(3/21 ~ 3/25)(Dynamic Programming) ✅
+[💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/dynamicprogramming)</br>
 3/21, 백준 : [2839 설탕 배달](https://www.acmicpc.net/problem/2839) 🥉1 </br>
 3/22, 백준 : [2670 연속부분최대곱](https://www.acmicpc.net/problem/2670) 🥈4 </br>
 3/23, 백준 : [1463 1로 만들기](https://www.acmicpc.net/problem/1463) 🥈3 </br>
@@ -70,7 +78,7 @@
 3/25, 백준 : [2579 계단 오르기](https://www.acmicpc.net/problem/2579)🥈3 </br>
 
 ## 👀 10주차 문제(3/28 ~ 4/1)(Greedy) ✅
-
+[💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/greedy)</br>
 3/28, 백준 : [4796 캠핑](https://www.acmicpc.net/problem/4796) 🥈5</br>
 3/29, 백준 : [11047 동전 0](https://www.acmicpc.net/problem/11047) 🥈3</br>
 3/30, 백준 : [16953 A->B](https://www.acmicpc.net/problem/16953) 🥈1</br>
@@ -78,6 +86,7 @@
 4/1, 백준 : [12904 A와B](https://www.acmicpc.net/problem/12904) 🥇5</br>
 
 ## 👀 11주차 알고리즘(4/4 ~ 4/8)(Dynamic Programming)
+[💡 리드미 읽으러 가기!](https://github.com/Dev-lemongrab/JavaAndAlgorithms/tree/main/yunseong/algorithm/dynamicprogramming)</br>
 4/4, 백준 : [11726 2xn타일링](https://www.acmicpc.net/problem/11726) 🥈3 </br>
 4/5, 백준 : [9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) 🥈3</br>
 4/6, 백준 : [11727 2xn타일링2](https://www.acmicpc.net/problem/11727) 🥈3</br>
