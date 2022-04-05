@@ -30,3 +30,4 @@ public class bj17478 {
         answer.append(tap).append("라고 답변하였지.\n");
     }
 }
+
