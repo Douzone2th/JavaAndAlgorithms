@@ -76,9 +76,16 @@
 3/24, 백준 : [9461 파도반 수열](https://www.acmicpc.net/problem/9461)  🥈3   </br>
 3/25, 백준 : [2579 계단 오르기](https://www.acmicpc.net/problem/2579)🥈3 </br>
 
-## 👀 10주차 문제 (Greedy)
+## 👀 Week10 (Greedy)
 3/28, 백준 : [4796 캠핑](https://www.acmicpc.net/problem/4796) 🥈5</br>
 3/29, 백준 : [11047 동전 0](https://www.acmicpc.net/problem/11047) 🥈3</br>
 3/30, 백준 : [16953 A->B](https://www.acmicpc.net/problem/16953) 🥈1</br>
 3/31, 백준 : [1080 행렬](https://www.acmicpc.net/problem/1080) 🥈1</br>
 4/1, 백준 : [12904 A와B](https://www.acmicpc.net/problem/12904) 🥇5</br>
+
+## 👀 Week11 (Dynamic Programming)
+4/4, 백준 : [11726 2xn타일링](https://www.acmicpc.net/problem/11726) 🥈3 </br>
+4/5, 백준 : [9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) 🥈3</br>
+4/6, 백준 : [11727 2xn타일링2](https://www.acmicpc.net/problem/11727) 🥈3</br>
+4/7, 백준 : [11722 가장긴 감소하는 부분수열](https://www.acmicpc.net/problem/11722) 🥈2</br>
+4/8, 백준 : [1904 01타일](https://www.acmicpc.net/problem/1904) 🥈3</br>
