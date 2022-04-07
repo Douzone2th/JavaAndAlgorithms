@@ -29,10 +29,9 @@ public class Baekjoon_18511 {
 			return; if(ans<now) ans=now; 
 		for (int i = K-1; i > -1; i--) {
 			dfs(now*10+num[i]); 
-			} 
 		} 
-	}
-
+	} 
 }
+
 
 
