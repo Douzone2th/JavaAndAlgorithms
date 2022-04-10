@@ -1,3 +1,5 @@
+package weeks_9;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -7,7 +9,7 @@ import java.util.List;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main {
+public class baekjoon15900 {
 	static int node, sum;
     static List<Integer> list[];
     static int visitied[];

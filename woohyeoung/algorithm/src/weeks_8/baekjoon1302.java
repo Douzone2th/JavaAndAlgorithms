@@ -1,3 +1,5 @@
+package weeks_8;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -7,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map.Entry;
 import java.util.Set;
 
-public class Main {
+public class baekjoon1302 {
 	static HashMap<String, Integer> map = new HashMap<>();
 	public static void main(String[] args) {
 		BufferedReader br = null;
