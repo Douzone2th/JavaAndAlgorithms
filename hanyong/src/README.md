@@ -115,7 +115,7 @@
 4/12, 백준 알고리즘 : [1463번 1로 만들기](https://www.acmicpc.net/problem/1463)</br>
 4/13, 백준 알고리즘 : [1010번 다리 놓기](https://www.acmicpc.net/problem/1010)</br>
 4/14, 백준 알고리즘 : [9095번 1,2,3 더하기](https://www.acmicpc.net/problem/9095)</br>
-4/15, 백준 알고리즘 : [1149번 2×n 타일링](https://www.acmicpc.net/problem/1149)</br>
+4/15, 백준 알고리즘 : [11726번 2×n 타일링](https://www.acmicpc.net/problem/11726)</br>
 
 <a name="week_10_12"></a>
 ---
