@@ -18,6 +18,5 @@ public class bj1094 {
             }
         }
         System.out.println(count);
-
     }
 }
