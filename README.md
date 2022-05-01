@@ -131,7 +131,7 @@
 5/2, 백준 알고리즘 : [1913번 달팽이](https://www.acmicpc.net/problem/1913)</br>
 5/3, 백준 알고리즘 : [2805번 나무 자르기](https://www.acmicpc.net/problem/2805)</br>
 5/4, 백준 알고리즘 : [2108번 통계학](https://www.acmicpc.net/problem/2108)</br>
-5/5, 백준 알고리즘 : [1337번 올바른 막대기](https://www.acmicpc.net/problem/1337)</br>
+5/5, 백준 알고리즘 : [1337번 올바른 ](https://www.acmicpc.net/problem/1337)</br>
 5/6, 백준 알고리즘 : [14582번 오늘도 졌다](https://www.acmicpc.net/problem/14582)</br>
 
 ---
