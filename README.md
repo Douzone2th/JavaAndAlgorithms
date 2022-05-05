@@ -24,7 +24,8 @@
   <a href="#week_4_6" style="border:1px solid black">week_4 ~ week_6 ↓</a> &nbsp;
   <a href="#week_7_9" style="border:1px solid black">week_7 ~ week_9 ↓</a> &nbsp;
   <a href="#week_10_12" style="border:1px solid black">week_10 ~ week_12 ↓</a> &nbsp; 
-   <a href="#bt" style="border:1px solid black">맨밑으로↓</a> &nbsp; 
+  <a href="#week_14_16" style="border:1px solid black">week_14 ~ week_16 ↓</a> &nbsp;
+  <a href="#bt" style="border:1px solid black">맨밑으로↓</a> &nbsp; 
 </div>
 
 ---
@@ -98,8 +99,6 @@
 3/25, 백준 알고리즘 : [15900번 나무탈출](https://www.acmicpc.net/problem/15900)</br>
 
 <a name="week_10_12"></a>
-
-
 ## 10주차 문제(3/26 ~ 4/1)
 3/28, 백준 알고리즘 : [13116번 30번](https://www.acmicpc.net/problem/13116)</br>
 3/29, 백준 알고리즘 : [11203번 Numbers On a Tree](https://www.acmicpc.net/problem/11203)</br>
@@ -121,6 +120,7 @@
 4/14, 프로그래머스 : [레벨 2 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)</br>
 4/15, 백준 알고리즘 : [16505번 별](https://www.acmicpc.net/problem/16505)</br>
 
+<a name="week_14_16"></a>
 ## 14주차 알고리즘테스트(4/26-4/29)
 4/26, 백준 알고리즘 : [1543번 문서 검색](https://www.acmicpc.net/problem/1543)</br>
 4/27, 백준 알고리즘 : [11047번 동전 0](https://www.acmicpc.net/problem/11047)</br>
@@ -131,7 +131,7 @@
 5/2, 백준 알고리즘 : [1913번 달팽이](https://www.acmicpc.net/problem/1913)</br>
 5/3, 백준 알고리즘 : [2805번 나무 자르기](https://www.acmicpc.net/problem/2805)</br>
 5/4, 백준 알고리즘 : [2108번 통계학](https://www.acmicpc.net/problem/2108)</br>
-5/5, 백준 알고리즘 : [1337번 올바른 막대기](https://www.acmicpc.net/problem/1337)</br>
+5/5, 백준 알고리즘 : [1337번 올바른 배열](https://www.acmicpc.net/problem/1337)</br>
 5/6, 백준 알고리즘 : [14582번 오늘도 졌다](https://www.acmicpc.net/problem/14582)</br>
 
 ---
