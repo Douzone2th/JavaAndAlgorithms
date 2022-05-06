@@ -1,4 +1,4 @@
-package weeks_8;
+package weeks_8_해시맵;
 
 import java.io.BufferedReader;
 import java.io.IOException;

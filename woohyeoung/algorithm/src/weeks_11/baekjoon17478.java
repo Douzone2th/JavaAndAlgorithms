@@ -1,4 +1,4 @@
-package weeks_11;
+package weeks_11_재귀;
 
 import java.io.BufferedReader;
 import java.io.IOException;
