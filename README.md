@@ -8,25 +8,28 @@
 ###### 추가시 -> feat : 1/25, 프로그래머스 레벨2 : [가장 큰 수] </br>
 ###### 추가시 -> feat : 1/25, SW Expert Academy : [사탕 분배] </br>
 ###### 수정시 -> fix : 1/25, 백준 알고리즘 : [1406번 에디터] </br>
-###### 구조변경 및 추가 -> docs : 1/25, add test project module  </br>
-###### 구조변경 및 추가 -> docs : 1/25, Update.Readme  </br>
+###### docs 추가 -> docs : 1/25, Update.Readme  </br>
 ###### 테스트 -> test : 1/25, git first test  </br>
-###### 리팩토링 -> refactor : 1/25, 백준 알고리즘 : [1406번 에디터 문제] </br>
+###### 구조 변경 및 리팩토링 -> refactor : jaebin/weeks3 refactor </br>
 ---
 ###### [git suggetion?](https://nesoy.github.io/articles/2019-11/Github-suggestion) </br>
 ###### [git-flow?](https://techblog.woowahan.com/2553/)
 ###### [git issue?](https://hyeonic.tistory.com/181)
-
 ---
 <p>Page</p>
 <div style="display:inline">
   <a href="#week_1_3" style="border:1px solid black">week_1 ~ week_3 ↓ </a> &nbsp;
   <a href="#week_4_6" style="border:1px solid black">week_4 ~ week_6 ↓</a> &nbsp;
   <a href="#week_7_9" style="border:1px solid black">week_7 ~ week_9 ↓</a> &nbsp;
+</div>
+<br>
+<div style="display:inline">
   <a href="#week_10_12" style="border:1px solid black">week_10 ~ week_12 ↓</a> &nbsp; 
   <a href="#week_14_16" style="border:1px solid black">week_14 ~ week_16 ↓</a> &nbsp;
-  <a href="#bt" style="border:1px solid black">맨밑으로↓</a> &nbsp; 
+ 
 </div>
+<br>
+<a href="#bt" style="border:1px solid black">맨밑으로↓</a> &nbsp; 
 
 ---
 
@@ -133,6 +136,20 @@
 5/4, 백준 알고리즘 : [2108번 통계학](https://www.acmicpc.net/problem/2108)</br>
 5/5, 백준 알고리즘 : [1337번 올바른 배열](https://www.acmicpc.net/problem/1337)</br>
 5/6, 백준 알고리즘 : [14582번 오늘도 졌다](https://www.acmicpc.net/problem/14582)</br>
+
+## 15주차 알고리즘테스트(5/2-5/6)
+5/2, 백준 알고리즘 : [1913번 달팽이](https://www.acmicpc.net/problem/1913)</br>
+5/3, 백준 알고리즘 : [2805번 나무 자르기](https://www.acmicpc.net/problem/2805)</br>
+5/4, 백준 알고리즘 : [2108번 통계학](https://www.acmicpc.net/problem/2108)</br>
+5/5, 백준 알고리즘 : [1337번 올바른 배열](https://www.acmicpc.net/problem/1337)</br>
+5/6, 백준 알고리즘 : [14582번 오늘도 졌다](https://www.acmicpc.net/problem/14582)</br>
+
+## 16주차 알고리즘테스트(5/9-5/13)
+5/9, 백준 알고리즘 : [1260번 DFS와 BFS](https://www.acmicpc.net/problem/1260)</br>
+5/10, 백준 알고리즘 : [7576번 토마토](https://www.acmicpc.net/problem/7576)</br>
+5/11, 백준 알고리즘 : [1325번 효율적인해킹](https://www.acmicpc.net/problem/1325)</br>
+5/12, 백준 알고리즘 : [24390번 또 전자레인지야?](https://www.acmicpc.net/problem/24390)</br>
+5/13, 백준 알고리즘 : [2606번 바이러스](https://www.acmicpc.net/problem/2606)</br>
 
 ---
 <a href="#top" style="border:1px solid black">위로 ↑ </a> &nbsp;
