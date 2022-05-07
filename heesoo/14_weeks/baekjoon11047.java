@@ -1,4 +1,4 @@
-package weeks_14;
+package weeks_14_구현;
 
 import java.io.BufferedReader;
 import java.io.IOException;
