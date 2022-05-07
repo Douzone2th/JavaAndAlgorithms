@@ -4,7 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-//백준 알고리즘 3085번 : 사탕게임, 브루트 포스
+//백준 알고리즘 3085번 : 사탕게임
+//분류 : 브루트 포스, 구현
 public class Baekjoon_3085 {
     static int N = 0;
     //상하

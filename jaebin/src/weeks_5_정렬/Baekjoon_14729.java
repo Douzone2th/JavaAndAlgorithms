@@ -5,7 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-//백준 알고리즘 14729번 : 칠무해, 정렬
+//백준 알고리즘 14729번 : 칠무해
+//분류 : 정렬
 public class Baekjoon_14729 {
     public static void main(String[] args) throws IOException {
         /**

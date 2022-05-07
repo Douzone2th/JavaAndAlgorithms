@@ -7,6 +7,7 @@ import java.util.LinkedList;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 15900번 : 나무 탈출
+//분류 : 트리, DFS
 public class Baekjoon_15900 {
     static LinkedList<Integer>[] adjList;
 	public static int answer = 0;

@@ -1,4 +1,4 @@
-package weeks_6_완전탐색;
+package weeks_6_브루트포스;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,9 +7,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-//백준 알고리즘 7568번 : 덩치 , 브루트 포스
-
-
+//백준 알고리즘 7568번 : 덩치
+//분류 : 브루트 포스
 public class Baekjoon_7568_2 {
     public static void main(String[] args) throws IOException {
         /**

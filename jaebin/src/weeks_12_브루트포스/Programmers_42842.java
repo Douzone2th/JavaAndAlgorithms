@@ -1,8 +1,9 @@
-package weeks_12_완전탐색;
+package weeks_12_브루트포스;
 
 import java.util.ArrayList;
 import java.util.Collections;
 //프로그래머스 레벨2 카펫
+//분류 : 브루트포스
 public class Programmers_42842 {
     public static void main(String[] args) {
         int brown = 50;

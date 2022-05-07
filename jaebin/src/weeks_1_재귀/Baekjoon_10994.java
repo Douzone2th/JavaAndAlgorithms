@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 //백준 알고리즘 : 10994번, 별 찍기-19
+//분류 : 재귀
 public class Baekjoon_10994 {
     public static char[][] result;
     public static int[] location;

@@ -1,4 +1,4 @@
-package weeks_11_재귀;
+package weeks_11_재귀_분할정복;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 2630번 : 색종이 만들기
+//분류 : 재귀, 분할정복
 public class Baekjoon_2630 {
     public static int white = 0;
     public static int blue = 0;

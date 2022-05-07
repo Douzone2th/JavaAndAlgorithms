@@ -1,12 +1,12 @@
-package weeks_10_트리;
+package weeks_10_트리_백트래킹;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-
 //백준 알고리즘 11203번 : Numbers On a Tree
+//분류 : 트리, 수학
 public class Baekjoon_11203 {
     public static void main(String[] args) throws IOException {
         //2개의 자식 -> 이진트리

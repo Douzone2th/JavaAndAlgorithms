@@ -6,7 +6,8 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-//백준 알고리즘 7795번 : 먹을 것인가 먹힐 것인가, 정렬
+//백준 알고리즘 7795번 : 먹을 것인가 먹힐 것인가
+//분류 : 정렬
 public class Baekjoon_7795 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

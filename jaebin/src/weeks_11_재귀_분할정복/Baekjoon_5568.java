@@ -1,4 +1,4 @@
-package weeks_11_재귀;
+package weeks_11_재귀_분할정복;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.HashSet;
 
 //백준 알고리즘 5568번 :  카드 놓기
+//분류 : 재귀, 브루트포스
 public class Baekjoon_5568 {
     public static HashSet<String> hs;
     public static int arr[];

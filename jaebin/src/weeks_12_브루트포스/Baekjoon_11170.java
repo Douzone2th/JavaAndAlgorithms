@@ -1,4 +1,4 @@
-package weeks_12_완전탐색;
+package weeks_12_브루트포스;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 11170번 : 0의 개수
+//분류 : 브루트포스, 수학
 public class Baekjoon_11170 {
     public static int count;
 

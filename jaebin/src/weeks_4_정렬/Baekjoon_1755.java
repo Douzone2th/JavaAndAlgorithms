@@ -6,7 +6,8 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-//백준 알고리즘 1755번 : 숫자놀이, 정렬
+//백준 알고리즘 1755번 : 숫자놀이
+//분류 : 정렬, 문자열
 public class Baekjoon_1755 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

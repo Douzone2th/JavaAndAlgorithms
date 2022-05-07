@@ -1,4 +1,4 @@
-package weeks_12_완전탐색;
+package weeks_12_브루트포스;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 
 //백준 16505번 : 별
+//분류 : 재귀
 public class Baekjoon_16505 {
     public static char arr[][];
 

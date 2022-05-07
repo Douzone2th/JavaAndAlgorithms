@@ -1,4 +1,4 @@
-package weeks_10_트리;
+package weeks_10_트리_백트래킹;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,6 +8,7 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 13116번 : 30번
+//분류 : 트리, 수학
 public class Beakjoon_13116 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

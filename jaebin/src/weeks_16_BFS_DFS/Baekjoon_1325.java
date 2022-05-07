@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 //백준 알고리즘 1325번 효율적인 해킹
+//분류 : BFS
 public class Baekjoon_1325 {
 
     public static boolean visited[];

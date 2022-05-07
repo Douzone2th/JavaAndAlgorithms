@@ -5,7 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-//백준 알고리즘 9372번 : 상근이의 여행, 트리
+//백준 알고리즘 9372번 : 상근이의 여행
+//분류 : 트리
 public class Baekjoon_9372 {
     //모든 국가를 지나도록 이용할 수 있는 최소의 비행기의 갯수는 국가갯수-1
     public static void main(String[] args) throws IOException {

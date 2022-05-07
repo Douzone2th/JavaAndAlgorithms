@@ -1,10 +1,11 @@
-package weeks_14_구현;
+package weeks_14_브루트포스_그리디;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 //백준 알고리즘 2607번 비슷한 단어
+//분류 : 구현, 문자열
 public class Baekjoon_2607 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

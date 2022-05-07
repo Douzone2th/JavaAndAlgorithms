@@ -1,10 +1,11 @@
-package weeks_14_구현;
+package weeks_14_브루트포스_그리디;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 //백준 알고리즘 1543번 문서검색
+//분류 : 브루트포스, 그리디
 public class Baekjoon_1543 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

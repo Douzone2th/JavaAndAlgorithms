@@ -1,10 +1,11 @@
-package weeks_11_재귀;
+package weeks_11_재귀_분할정복;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 //백준 알고리즘 17478번 : 재귀함수가 뭔가요?
+//분류 : 재귀
 public class Baekjoon_17478 {
     public static StringBuilder sb;
     public static String str = "\"재귀함수가 뭔가요?\"\n";

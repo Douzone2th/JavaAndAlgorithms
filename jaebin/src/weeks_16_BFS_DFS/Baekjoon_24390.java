@@ -7,6 +7,7 @@ import java.util.LinkedList;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 24390번 또 전자레인지야
+//분류 : BFS
 // 실패 : 런타임 에러 (ArrayIndexOutOfBounds)
 public class Baekjoon_24390 {
     public static int[] button = {10, 60, 600, 30};

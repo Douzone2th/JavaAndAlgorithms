@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 
 //백준 알고리즘 문제 : 11899번, 괄호 끼워넣기
+//분류 : 스택
 public class Baekjoon_11899 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 //백준 알고리즘 1260번 DFS와 BFS
+//분류 : DFS, BFS
 public class Beakjoon_1260 {
     public static ArrayList<ArrayList<Integer>> list = new ArrayList<>();
     public static boolean[] visited;

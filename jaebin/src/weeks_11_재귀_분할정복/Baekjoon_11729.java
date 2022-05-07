@@ -1,10 +1,11 @@
-package weeks_11_재귀;
+package weeks_11_재귀_분할정복;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 //백준 11729번 하노이 탑 이동 순서
+//분류 : 재귀
 public class Baekjoon_11729 {
     public static int count;
     public static int n;

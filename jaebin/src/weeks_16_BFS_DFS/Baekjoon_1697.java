@@ -7,6 +7,7 @@ import java.util.LinkedList;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 1697번 : 숨바꼭질
+//분류 : BFS
 public class Baekjoon_1697 {
 
     public static int[] visited;

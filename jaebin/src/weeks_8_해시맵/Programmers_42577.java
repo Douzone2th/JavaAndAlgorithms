@@ -3,6 +3,7 @@ package weeks_8_해시맵;
 import java.util.HashMap;
 
 //프로그래머스 레벨2 전화번호 목록
+//분류 : 해시맵
 public class Programmers_42577 {
     public static void main(String[] args) {
         String[] arr = {"119", "97674223", "1195524421"};

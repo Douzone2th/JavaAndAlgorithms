@@ -1,4 +1,4 @@
-package weeks_10_트리;
+package weeks_10_트리_백트래킹;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,6 +9,7 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 15681번 : 트리와 쿼리
+//분류 : 트리, DFS, 재귀
 public class Baekjoon_15681 {
     // 자신 포함 자식 노드의 개수 , 인덱스 번호는 노드의 번호
     static int[] childNodeNum;

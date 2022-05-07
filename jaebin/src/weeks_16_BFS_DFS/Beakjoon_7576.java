@@ -8,6 +8,7 @@ import java.util.LinkedList;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 7576번 토마토
+//분류 : BFS
 public class Beakjoon_7576 {
     // 좌우
     public static int[] dx = {0, 0, -1, 1};

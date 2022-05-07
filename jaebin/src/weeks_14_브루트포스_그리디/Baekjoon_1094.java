@@ -1,10 +1,11 @@
-package weeks_14_구현;
+package weeks_14_브루트포스_그리디;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 //백준 알고리즘 1094번 막대기
+//분류 : 수학
 public class Baekjoon_1094 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

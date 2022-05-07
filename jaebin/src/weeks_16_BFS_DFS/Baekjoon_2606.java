@@ -8,6 +8,7 @@ import java.util.LinkedList;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 2606번 바이러스
+//분류 : BFS
 public class Baekjoon_2606 {
 
     public static boolean visited[];

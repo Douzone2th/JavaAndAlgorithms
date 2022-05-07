@@ -1,11 +1,12 @@
-package weeks_6_완전탐색;
+package weeks_6_브루트포스;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-//백준 알고리즘 1120번 : 문자열, 브루트 포스
+//백준 알고리즘 1120번 : 문자열
+//분류 : 브루트 포스, 문자열
 public class Baekjoon_1120 {
     public static void main(String[] args) throws IOException {
         /**

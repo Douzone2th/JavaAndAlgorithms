@@ -1,10 +1,11 @@
-package weeks_12_완전탐색;
+package weeks_12_브루트포스;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 //백준 1065번 한수
+//분류 : 브루트포스
 public class Baekjoon_1065 {
     public static void main(String[] args) throws IOException {
         BufferedReader br =new BufferedReader(new InputStreamReader(System.in));

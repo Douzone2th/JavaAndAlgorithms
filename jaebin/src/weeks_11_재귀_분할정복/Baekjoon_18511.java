@@ -1,4 +1,4 @@
-package weeks_11_재귀;
+package weeks_11_재귀_분할정복;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,6 +7,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 18511번 : 큰 수 구성하기
+//분류 : 재귀, 브루트포스
 public class Baekjoon_18511 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

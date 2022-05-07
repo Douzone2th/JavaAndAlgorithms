@@ -6,7 +6,8 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.StringTokenizer;
 
-//백준 알고리즘 14425번 : 문자열 집합, 트리
+//백준 알고리즘 14425번 : 문자열 집합
+//분류 : 트리, 트라이
 public class Baekjoon_14425_2 {
     //자식노드맵과 현재 노드가 마지막 글자인지 여부
     private static class TrieNode {

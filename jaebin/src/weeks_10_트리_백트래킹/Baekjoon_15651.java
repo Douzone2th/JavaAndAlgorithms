@@ -1,4 +1,4 @@
-package weeks_10_트리;
+package weeks_10_트리_백트래킹;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 // 백준 알고리즘 15651번 : N 과 M
+//분류 : 백트래킹
 public class Baekjoon_15651 {
     public static int n;
     public static int m;
@@ -18,7 +19,7 @@ public class Baekjoon_15651 {
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
         result = new int[m];
-        sb= new StringBuilder();
+        sb = new StringBuilder();
 
         if (m == 1) {
             for (int i = 1; i <= n; i++) {

@@ -8,7 +8,8 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-//백준 알고리즘 5635번 : 생일, 정렬
+//백준 알고리즘 5635번 : 생일
+//분류 : 정렬
 public class Baekjoon_5635 {
 
 

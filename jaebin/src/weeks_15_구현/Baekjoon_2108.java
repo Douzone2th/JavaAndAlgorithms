@@ -5,6 +5,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 
 //백준 알고리즘 2108번 : 통계학
+//분류 : 수학, 구현
 public class Baekjoon_2108 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

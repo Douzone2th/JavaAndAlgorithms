@@ -1,10 +1,11 @@
-package weeks_6_완전탐색;
+package weeks_6_브루트포스;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-//백준 알고리즘 9663번 : N-Queen , 브루트 포스
+//백준 알고리즘 9663번 : N-Queen
+//분류 : 백트래킹, 브루트포스
 public class Baekjoon_9663 {
     public static int[] arr;
     public static int N;

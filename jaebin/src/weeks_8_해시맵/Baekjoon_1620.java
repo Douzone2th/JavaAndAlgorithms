@@ -7,6 +7,7 @@ import java.util.HashMap;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 1620번 : 나는야 포켓몬 마스터 이다솜
+//분류 : 해시맵
 public class Baekjoon_1620 {
     /**
      * map에 한번씩 포켓몬 번호와 포켓몬 이름을 넣고 value 값을 찾을경우 시간초과가 났다.

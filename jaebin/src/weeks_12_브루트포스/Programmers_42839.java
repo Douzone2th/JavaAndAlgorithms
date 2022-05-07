@@ -1,8 +1,9 @@
-package weeks_12_완전탐색;
+package weeks_12_브루트포스;
 
 import java.util.ArrayList;
 
 //프로그래머스 레벨2 : 완전 탐색 소수찾기
+//분류 : 브루트포스
 public class Programmers_42839 {
     public static void main(String[] args) {
         String s = "17";

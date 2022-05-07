@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 //백준 알고리즘 1913번 달팽이
+//분류 : 구현
 public class Baekjoon_1913 {
     public static int[][] arr;
     //하 우 상 좌
