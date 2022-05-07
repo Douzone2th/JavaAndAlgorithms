@@ -137,13 +137,6 @@
 5/5, 백준 알고리즘 : [1337번 올바른 배열](https://www.acmicpc.net/problem/1337)</br>
 5/6, 백준 알고리즘 : [14582번 오늘도 졌다](https://www.acmicpc.net/problem/14582)</br>
 
-## 15주차 알고리즘테스트(5/2-5/6)
-5/2, 백준 알고리즘 : [1913번 달팽이](https://www.acmicpc.net/problem/1913)</br>
-5/3, 백준 알고리즘 : [2805번 나무 자르기](https://www.acmicpc.net/problem/2805)</br>
-5/4, 백준 알고리즘 : [2108번 통계학](https://www.acmicpc.net/problem/2108)</br>
-5/5, 백준 알고리즘 : [1337번 올바른 배열](https://www.acmicpc.net/problem/1337)</br>
-5/6, 백준 알고리즘 : [14582번 오늘도 졌다](https://www.acmicpc.net/problem/14582)</br>
-
 ## 16주차 알고리즘테스트(5/9-5/13)
 5/9, 백준 알고리즘 : [1260번 DFS와 BFS](https://www.acmicpc.net/problem/1260)</br>
 5/10, 백준 알고리즘 : [7576번 토마토](https://www.acmicpc.net/problem/7576)</br>
