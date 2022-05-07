@@ -141,7 +141,7 @@
 5/9, 백준 알고리즘 : [1260번 DFS와 BFS](https://www.acmicpc.net/problem/1260)</br>
 5/10, 백준 알고리즘 : [7576번 토마토](https://www.acmicpc.net/problem/7576)</br>
 5/11, 백준 알고리즘 : [1325번 효율적인해킹](https://www.acmicpc.net/problem/1325)</br>
-5/12, 백준 알고리즘 : [24390번 또 전자레인지야?](https://www.acmicpc.net/problem/24390)</br>
+5/12, 백준 알고리즘 : [1697번 숨바꼭질](https://www.acmicpc.net/problem/1697)</br>
 5/13, 백준 알고리즘 : [2606번 바이러스](https://www.acmicpc.net/problem/2606)</br>
 
 ---
