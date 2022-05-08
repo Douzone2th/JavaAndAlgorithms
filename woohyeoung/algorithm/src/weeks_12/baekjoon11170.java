@@ -1,4 +1,4 @@
-package weeks_12_완전탐색;
+package weeks_12;
 
 import java.io.BufferedReader;
 import java.io.IOException;

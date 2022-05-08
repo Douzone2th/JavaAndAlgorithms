@@ -1,4 +1,4 @@
-package weeks_8_해시맵;
+package weeks_8;
 
 import java.util.ArrayList;
 import java.util.Arrays;
