@@ -117,6 +117,27 @@
 4/14, 백준 알고리즘 : [9095번 1,2,3 더하기](https://www.acmicpc.net/problem/9095)</br>
 4/15, 백준 알고리즘 : [11726번 2×n 타일링](https://www.acmicpc.net/problem/11726)</br>
 
-<a name="week_10_12"></a>
+<a name="week_14_16"></a>
+## 14주차 알고리즘테스트(4/26-4/29)
+4/26, 백준 알고리즘 : [1543번 문서 검색](https://www.acmicpc.net/problem/1543)</br>
+4/27, 백준 알고리즘 : [11047번 동전 0](https://www.acmicpc.net/problem/11047)</br>
+4/28, 백준 알고리즘 : [2607번 비슷한 단어](https://www.acmicpc.net/problem/2607)</br>
+4/29, 백준 알고리즘 : [1094번 막대기](https://www.acmicpc.net/problem/1094)</br>
+
+## 15주차 알고리즘테스트(5/2-5/6)
+5/2, 백준 알고리즘 : [1913번 달팽이](https://www.acmicpc.net/problem/1913)</br>
+5/3, 백준 알고리즘 : [2805번 나무 자르기](https://www.acmicpc.net/problem/2805)</br>
+5/4, 백준 알고리즘 : [2108번 통계학](https://www.acmicpc.net/problem/2108)</br>
+5/5, 백준 알고리즘 : [1337번 올바른 배열](https://www.acmicpc.net/problem/1337)</br>
+5/6, 백준 알고리즘 : [14582번 오늘도 졌다](https://www.acmicpc.net/problem/14582)</br>
+
+## 16주차 알고리즘테스트(5/9-5/13)
+5/9, 백준 알고리즘 : [1260번 DFS와 BFS](https://www.acmicpc.net/problem/1260)</br>
+5/10, 백준 알고리즘 : [7576번 토마토](https://www.acmicpc.net/problem/7576)</br>
+5/11, 백준 알고리즘 : [1325번 효율적인해킹](https://www.acmicpc.net/problem/1325)</br>
+5/12, 백준 알고리즘 : [1697번 숨바꼭질](https://www.acmicpc.net/problem/1697)</br>
+5/13, 백준 알고리즘 : [2606번 바이러스](https://www.acmicpc.net/problem/2606)</br>
+
 ---
 <a href="#top" style="border:1px solid black">위로 ↑ </a> &nbsp;
+<a name="bt"></a>
