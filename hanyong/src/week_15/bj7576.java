@@ -2,7 +2,6 @@ package week_15;
 
 import java.io.*;
 import java.util.*;
-
 class DOT {
     int x;
     int y;
@@ -12,39 +11,31 @@ class DOT {
         this.y = y;
     }
 }
-
 public class bj7576 {
     static int[] dx = { -1, 1, 0, 0 };
     static int[] dy = { 0, 0, -1, 1 };
-
     public static void main(String args[]) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String[] str = br.readLine().split(" ");
         int M = Integer.parseInt(str[0]);
         int N = Integer.parseInt(str[1]);
-
         int[][] arr = new int[N][M];
-
         for (int i = 0; i < N; i++) {
             str = br.readLine().split(" ");
             for (int j = 0; j < M; j++) {
                 arr[i][j] = Integer.parseInt(str[j]);
-
             }
         }
         BFS(arr, N, M);
     }
-
     public static void BFS(int[][] arr, int N, int M) {
         Queue<DOT> q = new LinkedList<DOT>();
-
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < M; j++) {
                 if (arr[i][j] == 1)
                     q.add(new DOT(i, j));
             }
         }
-
         while (!q.isEmpty()) {
             DOT dot = q.poll();
             for (int i = 0; i < 4; i++) {
@@ -71,7 +62,6 @@ public class bj7576 {
             }
         }
         System.out.println(max - 1);
-
     }
     public static void print(int[][] arr, int N, int M) {
         for (int i = 0; i < N; i++) {
