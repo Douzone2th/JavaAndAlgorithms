@@ -14,8 +14,9 @@ public class bj2606 {
         int a[][] = new int[n+1][n+1];
         boolean check[] = new boolean[n+1];
 
-        StringTokenizer st = new StringTokenizer(br.readLine()," ");
+        StringTokenizer st;
         for(int i=0;i<e;i++) {
+            st = new StringTokenizer(br.readLine()," ");
             int v1 = Integer.parseInt(st.nextToken());
             int v2 = Integer.parseInt(st.nextToken());
 
