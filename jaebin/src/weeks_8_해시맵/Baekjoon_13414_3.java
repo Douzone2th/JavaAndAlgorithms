@@ -8,6 +8,7 @@ import java.util.LinkedList;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 13414번 : 수강신청
+//분류 : 해시맵, 구현
 public class Baekjoon_13414_3 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

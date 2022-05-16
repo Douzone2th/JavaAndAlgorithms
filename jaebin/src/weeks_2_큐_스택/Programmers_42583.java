@@ -2,7 +2,8 @@ package weeks_2_큐_스택;
 
 import java.util.LinkedList;
 
-//프로그래머스 레벨 2 : 다리를 지나는 트럭, 스택/큐
+//프로그래머스 레벨 2 : 다리를 지나는 트럭
+//분류 : 큐
 public class Programmers_42583 {
     public static void main(String[] args) {
         int a = 100;

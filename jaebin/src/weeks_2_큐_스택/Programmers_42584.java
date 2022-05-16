@@ -2,7 +2,8 @@ package weeks_2_큐_스택;
 
 import java.util.LinkedList;
 
-//프로그래머스 레벨2 : 주식가격, 스택/큐
+//프로그래머스 레벨2 : 주식가격
+//분류 : 스택
 public class Programmers_42584 {
     public static void main(String[] args) {
         int[] p = {1, 2, 3, 2, 3};

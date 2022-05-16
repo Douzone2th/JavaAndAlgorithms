@@ -8,7 +8,8 @@ import java.util.Collections;
 import java.util.List;
 import java.util.StringTokenizer;
 
-//백준 알고리즘 13164번 : 행복 유치원, 정렬
+//백준 알고리즘 13164번 : 행복 유치원
+//분류 : 정렬, 그리디
 public class Baekjoon_13164 {
     public static void main(String[] args) throws IOException {
         /**

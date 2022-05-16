@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 : 16974번, 레벨 햄버거
+//분류 : 재귀
 public class Baekjoon_16974 {
     // 총 개수
     public static long total[], patty[];

@@ -7,7 +7,8 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
-//백준 알고리즘 2075번 : N번째 큰 수, 정렬
+//백준 알고리즘 2075번 : N번째 큰 수
+//분류 : 정렬
 public class Baekjoon_2075 {
     public static void main(String[] args) throws IOException {
         /**

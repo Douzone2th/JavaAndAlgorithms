@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 //백준 알고리즘 1337번 올바른 배열
+//분류 : 구현, 정렬
 public class Baekjoon_1337 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

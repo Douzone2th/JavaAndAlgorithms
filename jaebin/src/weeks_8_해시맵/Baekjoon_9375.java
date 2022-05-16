@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 //백준 알고리즘 : 9375번, 패션왕 신혜빈
+//분류 : 해시맵
 public class Baekjoon_9375 {
     /**
      * 조합과 해시맵

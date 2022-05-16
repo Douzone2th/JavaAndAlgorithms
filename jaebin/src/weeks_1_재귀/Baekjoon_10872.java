@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 //백준 알고리즘 : 10872번, 팩토리얼
-// 분류 :  재귀
+//분류 : 재귀
 public class Baekjoon_10872 {
     /*
      * N! 이라고 하면, N*(N-1)*(N-2)* ...2*1 이다.

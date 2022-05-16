@@ -2,7 +2,8 @@ package weeks_2_큐_스택;
 
 import java.util.LinkedList;
 
-//프로그래머스 레벨 2 : 프린터, 스택/큐
+//프로그래머스 레벨 2 : 프린터
+//분류 : 큐
 public class Programmers_42587 {
     public static void main(String[] args) {
         int n[] = {1, 1, 9, 1, 1, 2};

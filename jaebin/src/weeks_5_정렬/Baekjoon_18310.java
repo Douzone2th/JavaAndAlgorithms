@@ -5,7 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-//백준 알고리즘 18310번 : 안테나, 정렬
+//백준 알고리즘 18310번 : 안테나
+//분류 : 정렬, 그리디
 public class Baekjoon_18310 {
     public static void main(String[] args) throws IOException {
         /**

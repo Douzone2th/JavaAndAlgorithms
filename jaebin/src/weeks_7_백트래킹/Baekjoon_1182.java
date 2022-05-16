@@ -5,7 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-//백준 알고리즘 1182번 : 부분수열의 합, 브루트포스, 백트래킹
+//백준 알고리즘 1182번 : 부분수열의 합
+//분류 : 브루트 포스, 백트래킹
 public class Baekjoon_1182 {
     static int N; // 정수의 개수
     static int S;// 부분 수열의 합

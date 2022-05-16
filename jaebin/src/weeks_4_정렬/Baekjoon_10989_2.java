@@ -3,7 +3,8 @@ package weeks_4_정렬;
 import java.io.*;
 import java.util.Arrays;
 
-//백준 10989번 : 정렬, 수 정렬하기3
+//백준 10989번 : 수 정렬하기3
+//분류 : 정렬
 /** Arrays.sort() : DualPivotQuickSort(퀵 정렬)
  * 퀵 정렬과 BufferedReader, BufferedWriter 를 이용 하여 간당 간당 하게 풀 수 도 있다.
  * */

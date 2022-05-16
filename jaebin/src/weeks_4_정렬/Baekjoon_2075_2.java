@@ -8,6 +8,7 @@ import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 2075번 : N번째 큰 수, 정렬
+//분류 : 우선순위 큐
 public class Baekjoon_2075_2 {
     public static void main(String[] args) throws IOException {
         /**

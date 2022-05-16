@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 //백준 알고리즘 : 1769번, 3의 배수
+//분류 : 재귀
 public class Baekjoon_1769_1 {
     public static long count;
     public static String temp;

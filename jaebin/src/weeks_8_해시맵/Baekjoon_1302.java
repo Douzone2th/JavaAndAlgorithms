@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 //백준 알고리즘 1302번 : 베스트셀러
+//분류 : 문자열, 해시맵
 public class Baekjoon_1302 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

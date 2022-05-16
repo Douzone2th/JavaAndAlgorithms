@@ -4,8 +4,8 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-//백준 알고리즘 14425번 : 문자열 집합, 트리
-
+//백준 알고리즘 14425번 : 문자열 집합
+//분류 : 트리, 트라이
 class TrieNode {
     public boolean finish;
     public TrieNode[] next;

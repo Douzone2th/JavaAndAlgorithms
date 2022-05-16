@@ -8,6 +8,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 //백준 알고리즘 : 1874번, 스택 수열
+//분류 : 스택
 public class Baekjoon_1874 {
 
     public static void main(String[] args) throws IOException {

@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 //백준 알고리즘 11725번 : 트리의 부모찾기
+//분류 : 트리,DFS
 public class Baekjoon_11725 {
     static int n;
     //배열의 원소가 리스트
