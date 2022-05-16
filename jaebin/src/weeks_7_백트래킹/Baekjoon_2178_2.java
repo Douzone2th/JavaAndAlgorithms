@@ -7,7 +7,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-//백준 2178번 : 미로탐색, 브루트 포스
+//백준 2178번 : 미로탐색
+//분류 : BFS
 public class Baekjoon_2178_2 {
     /**
      * 미로의 각 칸이 탐색 대상 노드이다.

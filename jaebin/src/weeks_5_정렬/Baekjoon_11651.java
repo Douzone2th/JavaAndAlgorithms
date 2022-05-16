@@ -13,8 +13,8 @@ class Point {
         this.y = y;
     }
 }
-
-//백준 알고리즘 11651번 : 좌표 정렬하기 2 , 정렬
+//백준 알고리즘 11651번 : 좌표 정렬하기 2
+//분류 : 정렬
 public class Baekjoon_11651 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

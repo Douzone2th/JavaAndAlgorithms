@@ -7,7 +7,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-//백준 알고리즘 2503번: 숫자야구, 브루트 포스
+//백준 알고리즘 2503번: 숫자야구
+//분류 : 브루트 포스, 구현
 public class Baekjoon_2503 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

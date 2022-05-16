@@ -6,7 +6,8 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-//백준 알고리즘 1759번 : 암호만들기, 브루트포스
+//백준 알고리즘 1759번 : 암호만들기
+//분류 : 브루트 포스, 백트래킹
 public class Baekjoon_1759 {
    public static void main(String[] args) throws IOException {
        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

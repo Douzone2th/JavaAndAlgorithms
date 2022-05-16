@@ -7,6 +7,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 // 백준 알고리즘 2805번 나무자르기
+//분류 : 이분탐색
 public class Baekjoon_2805 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 // 백준 알고리즘 14582번 오늘도 졌다.
+//분류 : 구현
 public class Baekjoon_14582 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

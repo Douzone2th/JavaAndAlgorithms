@@ -7,6 +7,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 //백준 알고리즘 : 14713번, 앵무새
+//분류 : 큐
 public class Baekjoon_14713 {
     public static void main(String[] args) throws IOException {
         /**

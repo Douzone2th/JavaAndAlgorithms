@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 //백준 2751번 : 수 정렬하기2
-
+//분류 : 정렬
 /**
  * Collections.sort() : Timsort
  */

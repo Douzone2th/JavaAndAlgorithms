@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 
 //백준 알고리즘 : 10773번 ,제로
+//분류 : 스택
 public class Baekjoon_10773 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
