@@ -1,4 +1,4 @@
-package weeks_10_트리_백트래킹;
+package weeks_10;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package weeks_11_재귀_분할정복;
+package weeks_11;
 
 import java.io.BufferedReader;
 import java.io.IOException;

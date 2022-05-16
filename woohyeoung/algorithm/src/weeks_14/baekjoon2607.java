@@ -1,4 +1,4 @@
-package weeks_14_브루트포스_그리디;
+package weeks_14;
 
 import java.io.BufferedReader;
 import java.io.IOException;
